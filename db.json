@@ -5,6 +5,116 @@
       "title": "hello"
     }
   ],
+  "accounts": [
+    {
+      "name": "Bouygues",
+      "status": "new",
+      "last_connection": "December 17, 1995 03:24:00",
+      "id": 5,
+      "license": {
+        "Idea": {
+          "value": 10,
+          "perMonth": true
+        },
+        "Startup": {
+          "value": 10,
+          "perMonth": true
+        },
+        "Project": {
+          "value": 10,
+          "perMonth": true
+        },
+        "User": {
+          "value": 10,
+          "perMonth": false
+        },
+        "Teams": {
+          "value": 10,
+          "perMonth": false
+        },
+        "Maps": {
+          "value": 10,
+          "perMonth": true
+        }
+      },
+      "users": [
+        {
+          "name": "Ilan Koskas",
+          "profile": "admin",
+          "avatar": "47a716b0-100e-11e9-a1a9-8d5fe7b6117a.png"
+        },
+        {
+          "name": "Ilan Koskas",
+          "profile": "admin",
+          "avatar": "47a716b0-100e-11e9-a1a9-8d5fe7b6117a.png"
+        },
+        {
+          "name": "Ilan Koskas",
+          "profile": "admin",
+          "avatar": "47a716b0-100e-11e9-a1a9-8d5fe7b6117a.png"
+        },
+        {
+          "name": "Ilan Koskas",
+          "profile": "admin",
+          "avatar": "47a716b0-100e-11e9-a1a9-8d5fe7b6117a.png"
+        }
+      ]
+    },
+    {
+      "name": "Travel Factory",
+      "status": "new",
+      "last_connection": "December 17, 1995 03:24:00",
+      "id": 5,
+      "license": {
+        "Idea": {
+          "value": 10,
+          "perMonth": true
+        },
+        "Startup": {
+          "value": 10,
+          "perMonth": true
+        },
+        "Project": {
+          "value": 10,
+          "perMonth": true
+        },
+        "User": {
+          "value": 10,
+          "perMonth": false
+        },
+        "Teams": {
+          "value": 10,
+          "perMonth": false
+        },
+        "Maps": {
+          "value": 10,
+          "perMonth": true
+        }
+      },
+      "users": [
+        {
+          "name": "Ilan Koskas",
+          "profile": "admin",
+          "avatar": "47a716b0-100e-11e9-a1a9-8d5fe7b6117a.png"
+        },
+        {
+          "name": "Ilan Koskas",
+          "profile": "admin",
+          "avatar": "47a716b0-100e-11e9-a1a9-8d5fe7b6117a.png"
+        },
+        {
+          "name": "Ilan Koskas",
+          "profile": "admin",
+          "avatar": "47a716b0-100e-11e9-a1a9-8d5fe7b6117a.png"
+        },
+        {
+          "name": "Ilan Koskas",
+          "profile": "admin",
+          "avatar": "47a716b0-100e-11e9-a1a9-8d5fe7b6117a.png"
+        }
+      ]
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
