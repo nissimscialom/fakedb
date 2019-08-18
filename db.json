@@ -132,15 +132,15 @@
         "name": "CrunchBase",
         "color": "blue",
         "data": {
-          "properties": {
-            "permalink": "wishi",
-            "permalink_aliases": null,
-            "primary_role": "company",
-            "investor_type": null,
-            "founded_on": "2014-01-01",
-            "is_closed": false,
-            "closed_on": null
-          },
+          "properties": [
+            {"key":"permalink","value": "wishi", "type": "string", "display": "Permalink"},
+            {"key":"permalink_aliases","value":null, "type": "string", "display": "Permalink Aliases"},
+            {"key":"primary_role","value":"company", "type": "string", "display": "Primary Role"},
+            {"key":"investor_type","value":null, "type": "string", "display": "Investor Type"},
+            {"key":"founded_on","value":"2014-01-01", "type": "date", "display": "Founded"},
+            {"key":"is_closed","value":false, "type": "boolean", "display": "Is Closed"},
+            {"key":"closed_on","value":null, "type": "boolean", "display": "Closed On"}
+          ],
           "relationships": {
             "current_team": [
               {
