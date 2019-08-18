@@ -159,25 +159,215 @@
             "updated_at": 1561413371
           },
           "relationships": {
-            "competitors": [],
-            "customers": [],
-            "memberships": [],
-            "members": [],
-            "ipo": {},
-            "funds": [],
-            "images": [
+            "current_team": [
               {
-                "type": "Image",
-                "uuid": "49e64a8069676e4a666f6112dfdf6110",
+                "type": "Job",
+                "uuid": "08e5032b5cfe4bf7447829a76b130ab2",
                 "properties": {
-                  "asset_path": "http://public.crunchbase.com/t_api_images/pte2utpcukduwzznitjc",
-                  "asset_url": "http://public.crunchbase.com/t_api_images/pte2utpcukduwzznitjc",
-                  "content_type": "pte2utpcukduwzznitjc",
-                  "height": null,
-                  "width": null,
-                  "filesize": null,
-                  "created_at": 1323725911,
-                  "updated_at": 1561413371
+                  "title": "Co founder",
+                  "started_on": "2014-01-06",
+                  "started_on_trust_code": 7,
+                  "ended_on": null,
+                  "ended_on_trust_code": null,
+                  "is_current": true,
+                  "job_type": "employee",
+                  "created_at": 1421283082,
+                  "updated_at": 1518484749
+                },
+                "relationships": {
+                  "person": {
+                    "type": "Person",
+                    "uuid": "f5aea1127aa4b028a88b13cc5f0c3357",
+                    "properties": {
+                      "permalink": "clea-o-hana",
+                      "permalink_aliases": null,
+                      "api_path": "people/clea-o-hana",
+                      "web_path": "person/clea-o-hana",
+                      "api_url": "https://api.crunchbase.com/v3.1/people/clea-o-hana",
+                      "first_name": "Clea",
+                      "last_name": "O'hana",
+                      "gender": "Female",
+                      "also_known_as": null,
+                      "bio": null,
+                      "profile_image_url": "http://public.crunchbase.com/t_api_images/v1421283019/nvv1300u5j5dfhv3r1hv.jpg",
+                      "role_investor": false,
+                      "born_on": "1990-09-08",
+                      "born_on_trust_code": 7,
+                      "died_on": null,
+                      "died_on_trust_code": null,
+                      "rank": 60562,
+                      "created_at": 1421283082,
+                      "updated_at": 1518479525
+                    }
+                  }
+                }
+              },
+              {
+                "type": "Job",
+                "uuid": "93c120adcce7a8d2820cdd49d67a0a8a",
+                "properties": {
+                  "title": "Founder",
+                  "started_on": "2011-08-01",
+                  "started_on_trust_code": 6,
+                  "ended_on": null,
+                  "ended_on_trust_code": null,
+                  "is_current": true,
+                  "job_type": "employee",
+                  "created_at": 1323697111,
+                  "updated_at": 1518485419
+                },
+                "relationships": {
+                  "person": {
+                    "type": "Person",
+                    "uuid": "8669fe98d3b7242d654ab1ee1a887c24",
+                    "properties": {
+                      "permalink": "hila-angel",
+                      "permalink_aliases": null,
+                      "api_path": "people/hila-angel",
+                      "web_path": "person/hila-angel",
+                      "api_url": "https://api.crunchbase.com/v3.1/people/hila-angel",
+                      "first_name": "Hila",
+                      "last_name": "Angel",
+                      "gender": "Female",
+                      "also_known_as": null,
+                      "bio": null,
+                      "profile_image_url": "http://public.crunchbase.com/t_api_images/v1421283204/ffgp1g15jjcpkxobtgfl.jpg",
+                      "role_investor": false,
+                      "born_on": null,
+                      "born_on_trust_code": null,
+                      "died_on": null,
+                      "died_on_trust_code": null,
+                      "rank": 74671,
+                      "created_at": 1323725910,
+                      "updated_at": 1532388441
+                    }
+                  }
+                }
+              },
+              {
+                "type": "Job",
+                "uuid": "9bd8a7caeda547578213df394aae78d3",
+                "properties": {
+                  "title": "Investor and Founder",
+                  "started_on": "2011-09-01",
+                  "started_on_trust_code": 6,
+                  "ended_on": null,
+                  "ended_on_trust_code": null,
+                  "is_current": true,
+                  "job_type": "employee",
+                  "created_at": 1553012391,
+                  "updated_at": 1553012391
+                },
+                "relationships": {
+                  "person": {
+                    "type": "Person",
+                    "uuid": "0928daa24a203fd53a1351195d22b9aa",
+                    "properties": {
+                      "permalink": "shay-hasson",
+                      "permalink_aliases": null,
+                      "api_path": "people/shay-hasson",
+                      "web_path": "person/shay-hasson",
+                      "api_url": "https://api.crunchbase.com/v3.1/people/shay-hasson",
+                      "first_name": "Shay",
+                      "last_name": "Hasson",
+                      "gender": "Male",
+                      "also_known_as": null,
+                      "bio": "Shay Hasson, Managing Partner WeKix.com\r\nShay Hasson brings more than fifteen years entrepreneurial experience leading\r\ntechnology and media companies. Hasson founded the Clementina Group in the US\r\nin 1999 with the vision of merging technology, creative and marketing disciplines to\r\nprovide uniquely integrated creative and marketing OTV application solutions. As an\r\nentrepreneur, Hasson founded several companies including a UK-based\r\nprofessional services firm, a US-based internet marketing company and an early\r\nstage investment firm.\r\nHasson currently serves on the boards of clementina.net, Intr8ing.com, teewe.tv and\r\nothers.",
+                      "profile_image_url": "http://public.crunchbase.com/t_api_images/v1397186708/9be6d00eb991adce04b7fb89bc2eabfc.jpg",
+                      "role_investor": true,
+                      "born_on": "1965-05-09",
+                      "born_on_trust_code": 7,
+                      "died_on": null,
+                      "died_on_trust_code": null,
+                      "rank": 47142,
+                      "created_at": 1261416027,
+                      "updated_at": 1518478176
+                    }
+                  }
+                }
+              },
+              {
+                "type": "Job",
+                "uuid": "c40a55c83a654d8c2abd5b0953851ad3",
+                "properties": {
+                  "title": "Founder",
+                  "started_on": "2011-08-01",
+                  "started_on_trust_code": 6,
+                  "ended_on": null,
+                  "ended_on_trust_code": null,
+                  "is_current": true,
+                  "job_type": "employee",
+                  "created_at": 1323697111,
+                  "updated_at": 1518485667
+                },
+                "relationships": {
+                  "person": {
+                    "type": "Person",
+                    "uuid": "eec75cc63d5e312ad64d2ce143d2cf39",
+                    "properties": {
+                      "permalink": "lia-kislev",
+                      "permalink_aliases": null,
+                      "api_path": "people/lia-kislev",
+                      "web_path": "person/lia-kislev",
+                      "api_url": "https://api.crunchbase.com/v3.1/people/lia-kislev",
+                      "first_name": "Lia",
+                      "last_name": "Kislev",
+                      "gender": "Female",
+                      "also_known_as": null,
+                      "bio": "Fashion Tech Entrepreneur",
+                      "profile_image_url": "http://public.crunchbase.com/t_api_images/v1397183606/be4acae3d58bbf9668d12b3598b16c9e.jpg",
+                      "role_investor": false,
+                      "born_on": null,
+                      "born_on_trust_code": null,
+                      "died_on": null,
+                      "died_on_trust_code": null,
+                      "rank": 48727,
+                      "created_at": 1323725910,
+                      "updated_at": 1518479635
+                    }
+                  }
+                }
+              },
+              {
+                "type": "Job",
+                "uuid": "eda6f0d3c91a46d5be9d9a2fad881ba6",
+                "properties": {
+                  "title": "Founder",
+                  "started_on": null,
+                  "started_on_trust_code": null,
+                  "ended_on": null,
+                  "ended_on_trust_code": null,
+                  "is_current": true,
+                  "job_type": "employee",
+                  "created_at": 1531824790,
+                  "updated_at": 1531824790
+                },
+                "relationships": {
+                  "person": {
+                    "type": "Person",
+                    "uuid": "2b796deb841ad95223eb00062348191a",
+                    "properties": {
+                      "permalink": "aya-elhanan",
+                      "permalink_aliases": null,
+                      "api_path": "people/aya-elhanan",
+                      "web_path": "person/aya-elhanan",
+                      "api_url": "https://api.crunchbase.com/v3.1/people/aya-elhanan",
+                      "first_name": "Aya",
+                      "last_name": "Elhanan",
+                      "gender": "Female",
+                      "also_known_as": null,
+                      "bio": "Aya has a B.Sc. in Computer Science from Ben-Gurion University. She is an experienced technology professional in all aspects of software development with a proven record of success in architecture, design, development, QA and deployment.",
+                      "profile_image_url": "http://public.crunchbase.com/t_api_images/p2cld2ks9ex5476uu8rm",
+                      "role_investor": false,
+                      "born_on": null,
+                      "born_on_trust_code": null,
+                      "died_on": null,
+                      "died_on_trust_code": null,
+                      "rank": 73592,
+                      "created_at": 1474325494,
+                      "updated_at": 1531824804
+                    }
+                  }
                 }
               }
             ]
