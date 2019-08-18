@@ -119,6 +119,12 @@
     "name": "typicode"
   },
   "startup": {
+    "notes": [],
+    "news": [],
+    "is_owner": 0,
+    "attachments": [],
+    "comments": [],
+    "id": "65536",
     "sources": [
       {
         "name": "CrunchBase",
