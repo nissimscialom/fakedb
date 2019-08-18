@@ -144,19 +144,7 @@
             "investor_type": null,
             "founded_on": "2014-01-01",
             "is_closed": false,
-            "closed_on": null,
-            "num_employees_min": 11,
-            "num_employees_max": 50,
-            "stock_exchange": null,
-            "stock_symbol": null,
-            "total_funding_usd": 8766177,
-            "number_of_investments": 0,
-            "homepage_url": "http://www.wishi.me",
-            "contact_email": "hello@wishi.me",
-            "phone_number": null,
-            "rank": 7820,
-            "created_at": 1323725911,
-            "updated_at": 1561413371
+            "closed_on": null
           },
           "relationships": {
             "current_team": [
@@ -165,14 +153,7 @@
                 "uuid": "08e5032b5cfe4bf7447829a76b130ab2",
                 "properties": {
                   "title": "Co founder",
-                  "started_on": "2014-01-06",
-                  "started_on_trust_code": 7,
-                  "ended_on": null,
-                  "ended_on_trust_code": null,
-                  "is_current": true,
-                  "job_type": "employee",
-                  "created_at": 1421283082,
-                  "updated_at": 1518484749
+                  "started_on": "2014-01-06"
                 },
                 "relationships": {
                   "person": {
@@ -181,23 +162,7 @@
                     "properties": {
                       "permalink": "clea-o-hana",
                       "permalink_aliases": null,
-                      "api_path": "people/clea-o-hana",
-                      "web_path": "person/clea-o-hana",
-                      "api_url": "https://api.crunchbase.com/v3.1/people/clea-o-hana",
-                      "first_name": "Clea",
-                      "last_name": "O'hana",
-                      "gender": "Female",
-                      "also_known_as": null,
-                      "bio": null,
-                      "profile_image_url": "http://public.crunchbase.com/t_api_images/v1421283019/nvv1300u5j5dfhv3r1hv.jpg",
-                      "role_investor": false,
-                      "born_on": "1990-09-08",
-                      "born_on_trust_code": 7,
-                      "died_on": null,
-                      "died_on_trust_code": null,
-                      "rank": 60562,
-                      "created_at": 1421283082,
-                      "updated_at": 1518479525
+                      "api_path": "people/clea-o-hana"
                     }
                   }
                 }
