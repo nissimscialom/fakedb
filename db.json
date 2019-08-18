@@ -118,7 +118,7 @@
   "profile": {
     "name": "typicode"
   },
-  "startup": {
+  "startups": {
     "notes": [],
     "news": [],
     "is_owner": 0,
