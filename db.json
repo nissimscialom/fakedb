@@ -119,55 +119,63 @@
     "name": "typicode"
   },
   "startup": {
-    "properties": {
-      "permalink": "wishi",
-      "permalink_aliases": null,
-      "name": "Wishi",
-      "also_known_as": null,
-      "short_description": "YOUR PREMIUM DESTINATION FOR ONLINE STYLING",
-      "description": "Wishi is an online marketplace that provides personal styling at an affordable price. It is also home to the personal stylists and provides them the opportunity to make flexible income on demand. WISHI’s stylists help users unlock their closet’s full potential while introducing them to relevant and inspiring items that are within their budget.\n\nWISHI was named Best Startup Pitch and was founded by Lia Kislev and Clea O'hana in 2014 and has offices in San Francisco, New York, and Tel Aviv.",
-      "profile_image_url": "http://public.crunchbase.com/t_api_images/pte2utpcukduwzznitjc",
-      "primary_role": "company",
-      "investor_type": null,
-      "founded_on": "2014-01-01",
-      "is_closed": false,
-      "closed_on": null,
-      "num_employees_min": 11,
-      "num_employees_max": 50,
-      "stock_exchange": null,
-      "stock_symbol": null,
-      "total_funding_usd": 8766177,
-      "number_of_investments": 0,
-      "homepage_url": "http://www.wishi.me",
-      "contact_email": "hello@wishi.me",
-      "phone_number": null,
-      "rank": 7820,
-      "created_at": 1323725911,
-      "updated_at": 1561413371
-    },
-    "relationships": {
-      "competitors": [],
-      "customers": [],
-      "memberships": [],
-      "members": [],
-      "ipo": {},
-      "funds": [],
-      "images": [
-        {
-          "type": "Image",
-          "uuid": "49e64a8069676e4a666f6112dfdf6110",
+    "sources": [
+      {
+        "name": "CrunchBase",
+        "color": "blue",
+        "data": {
           "properties": {
-            "asset_path": "http://public.crunchbase.com/t_api_images/pte2utpcukduwzznitjc",
-            "asset_url": "http://public.crunchbase.com/t_api_images/pte2utpcukduwzznitjc",
-            "content_type": "pte2utpcukduwzznitjc",
-            "height": null,
-            "width": null,
-            "filesize": null,
+            "permalink": "wishi",
+            "permalink_aliases": null,
+            "name": "Wishi",
+            "also_known_as": null,
+            "short_description": "YOUR PREMIUM DESTINATION FOR ONLINE STYLING",
+            "description": "Wishi is an online marketplace that provides personal styling at an affordable price. It is also home to the personal stylists and provides them the opportunity to make flexible income on demand. WISHI’s stylists help users unlock their closet’s full potential while introducing them to relevant and inspiring items that are within their budget.\n\nWISHI was named Best Startup Pitch and was founded by Lia Kislev and Clea O'hana in 2014 and has offices in San Francisco, New York, and Tel Aviv.",
+            "profile_image_url": "http://public.crunchbase.com/t_api_images/pte2utpcukduwzznitjc",
+            "primary_role": "company",
+            "investor_type": null,
+            "founded_on": "2014-01-01",
+            "is_closed": false,
+            "closed_on": null,
+            "num_employees_min": 11,
+            "num_employees_max": 50,
+            "stock_exchange": null,
+            "stock_symbol": null,
+            "total_funding_usd": 8766177,
+            "number_of_investments": 0,
+            "homepage_url": "http://www.wishi.me",
+            "contact_email": "hello@wishi.me",
+            "phone_number": null,
+            "rank": 7820,
             "created_at": 1323725911,
             "updated_at": 1561413371
+          },
+          "relationships": {
+            "competitors": [],
+            "customers": [],
+            "memberships": [],
+            "members": [],
+            "ipo": {},
+            "funds": [],
+            "images": [
+              {
+                "type": "Image",
+                "uuid": "49e64a8069676e4a666f6112dfdf6110",
+                "properties": {
+                  "asset_path": "http://public.crunchbase.com/t_api_images/pte2utpcukduwzznitjc",
+                  "asset_url": "http://public.crunchbase.com/t_api_images/pte2utpcukduwzznitjc",
+                  "content_type": "pte2utpcukduwzznitjc",
+                  "height": null,
+                  "width": null,
+                  "filesize": null,
+                  "created_at": 1323725911,
+                  "updated_at": 1561413371
+                }
+              }
+            ]
           }
         }
-      ]
-    }
+      }
+    ]
   }
 }
