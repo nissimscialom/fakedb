@@ -144,27 +144,54 @@
             {"key":"tags","value": ["fintech", "agritech", "water"], "type": "tags", "display": "Tags"}
           ],
           "relationships": {
-            "current_team": [
+            "founders": [
               {
-                "type": "Job",
-                "uuid": "08e5032b5cfe4bf7447829a76b130ab2",
-                "properties": {
-                  "title": "Co founder",
-                  "started_on": "2014-01-06"
-                },
-                "relationships": {
-                  "person": {
-                    "type": "Person",
-                    "uuid": "f5aea1127aa4b028a88b13cc5f0c3357",
-                    "properties": {
-                      "permalink": "clea-o-hana",
-                      "permalink_aliases": null,
-                      "api_path": "people/clea-o-hana"
-                    }
-                  }
-                }
+                "type": "Person",
+                "uuid": "0928daa24a203fd53a1351195d22b9aa",
+                "properties": [
+                  {"key":"permalink","value":  "shay-hasson", "type": "string", "display": "Permalink"},
+                  {"key":"permalink_aliases","value": null, "type": "string", "display": "Permalink Aliases"},
+                  {"key":"api_path","value": "people/shay-hasson", "type": "string", "display": "Api Path"},
+                  {"key":"web_path","value": "person/shay-hasson", "type": "string", "display": "Web Path"},
+                  {"key":"api_url","value": "https://api.crunchbase.com/v3.1/people/shay-hasson", "type": "url", "display": "Api URL"},
+                  {"key":"first_name","value": "Shay", "type": "string", "display": "First Name"},
+                  {"key":"last_name","value": "Hasson", "type": "string", "display": "Last Name"},
+                  {"key":"gender","value": "Male", "type": "string", "display": "Gender"},
+                  {"key":"also_known_as","value": null, "type": "string", "display": "Also Known As"},
+                  {"key":"bio","value": "Shay Hasson, Managing Partner WeKix.com\r\nShay Hasson brings more than fifteen years entrepreneurial experience leading\r\ntechnology and media companies. Hasson founded the Clementina Group in the US\r\nin 1999 with the vision of merging technology, creative and marketing disciplines to\r\nprovide uniquely integrated creative and marketing OTV application solutions. As an\r\nentrepreneur, Hasson founded several companies including a UK-based\r\nprofessional services firm, a US-based internet marketing company and an early\r\nstage investment firm.\r\nHasson currently serves on the boards of clementina.net, Intr8ing.com, teewe.tv and\r\nothers.",
+                    "profile_image_url": "http://public.crunchbase.com/t_api_images/v1397186708/9be6d00eb991adce04b7fb89bc2eabfc.jpg", "type": "string", "display": "Bio"},
+                  {"key":"role_investor","value": true, "type": "boolean", "display": "Role Investor"},
+                  {"key":"born_on","value": "1965-05-09", "type": "date", "display": "Born On"},
+                  {"key":"born_on_trust_code","value": 7, "type": "number", "display": "Born On Trust Code"},
+                  {"key":"died_on","value": null, "type": "number", "display": "Died On"},
+                  {"key":"died_on_trust_code","value": null, "type": "number", "display": "Died On Trust Code"},
+                  {"key":"rank","value": 47142, "type": "number", "display": "Rank"}
+                ]
               }
-            ]
+           ],
+            "acquired_by":  {
+              "type": "Person",
+              "uuid": "0928daa24a203fd53a1351195d22b9aa",
+              "properties": [
+                {"key":"permalink","value":  "shay-hasson", "type": "string", "display": "Permalink"},
+                {"key":"permalink_aliases","value": null, "type": "string", "display": "Permalink Aliases"},
+                {"key":"api_path","value": "people/shay-hasson", "type": "string", "display": "Api Path"},
+                {"key":"web_path","value": "person/shay-hasson", "type": "string", "display": "Web Path"},
+                {"key":"api_url","value": "https://api.crunchbase.com/v3.1/people/shay-hasson", "type": "url", "display": "Api URL"},
+                {"key":"first_name","value": "Shay", "type": "string", "display": "First Name"},
+                {"key":"last_name","value": "Hasson", "type": "string", "display": "Last Name"},
+                {"key":"gender","value": "Male", "type": "string", "display": "Gender"},
+                {"key":"also_known_as","value": null, "type": "string", "display": "Also Known As"},
+                {"key":"bio","value": "Shay Hasson, Managing Partner WeKix.com\r\nShay Hasson brings more than fifteen years entrepreneurial experience leading\r\ntechnology and media companies. Hasson founded the Clementina Group in the US\r\nin 1999 with the vision of merging technology, creative and marketing disciplines to\r\nprovide uniquely integrated creative and marketing OTV application solutions. As an\r\nentrepreneur, Hasson founded several companies including a UK-based\r\nprofessional services firm, a US-based internet marketing company and an early\r\nstage investment firm.\r\nHasson currently serves on the boards of clementina.net, Intr8ing.com, teewe.tv and\r\nothers.",
+                  "profile_image_url": "http://public.crunchbase.com/t_api_images/v1397186708/9be6d00eb991adce04b7fb89bc2eabfc.jpg", "type": "string", "display": "Bio"},
+                {"key":"role_investor","value": true, "type": "boolean", "display": "Role Investor"},
+                {"key":"born_on","value": "1965-05-09", "type": "date", "display": "Born On"},
+                {"key":"born_on_trust_code","value": 7, "type": "number", "display": "Born On Trust Code"},
+                {"key":"died_on","value": null, "type": "number", "display": "Died On"},
+                {"key":"died_on_trust_code","value": null, "type": "number", "display": "Died On Trust Code"},
+                {"key":"rank","value": 47142, "type": "number", "display": "Rank"}
+              ]
+            }
           }
         }
       }
