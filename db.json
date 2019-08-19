@@ -130,6 +130,7 @@
     "sources": [
       {
         "name": "CrunchBase",
+        "is_owner": false,
         "color": "blue",
         "data": {
           "properties": [
