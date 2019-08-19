@@ -139,7 +139,9 @@
             {"key":"investor_type","value":null, "type": "string", "display": "Investor Type"},
             {"key":"founded_on","value":"2014-01-01", "type": "date", "display": "Founded"},
             {"key":"is_closed","value":false, "type": "boolean", "display": "Is Closed"},
-            {"key":"closed_on","value":null, "type": "boolean", "display": "Closed On"}
+            {"key":"closed_on","value":null, "type": "boolean", "display": "Closed On"},
+            {"key":"profile_image_url","value": "http://public.crunchbase.com/t_api_images/pte2utpcukduwzznitjc", "type": "url", "display": "Profile Image Url"},
+            {"key":"tags","value": ["fintech", "agritech", "water"], "type": "tags", "display": "Tags"}
           ],
           "relationships": {
             "current_team": [
