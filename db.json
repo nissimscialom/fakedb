@@ -119,6 +119,11 @@
     "name": "typicode"
   },
   "startups": {
+    "logo": "https://assets.novea-solutions.fr/startup/60b0156bc063f05b6bf6b80f9e0d178d.jpeg",
+    "name": "Startup Name",
+    "tagline": "tagline",
+    "description": "description",
+    "tags": ["fintech", "agrotech", "water"],
     "notes": [],
     "news": [],
     "is_owner": 1,
